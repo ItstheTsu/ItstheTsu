@@ -14,6 +14,10 @@ Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resol
 
 ## Linguagens/Aplicativos Que Eu tenho Conhecimento 🛠:
 
+![Summary-Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItstheTsu&theme=2077)
+
+## Meu Conhecimento Técnico 💻:
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical)
 
 ## Status Do Github 📊:
