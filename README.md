@@ -1,20 +1,5 @@
 # Bem-vindo ao Meu Perfil no GitHub!
 
-![Banner do GitHub](https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png)
+![Banner do GitHub](link_para_sua_imagem_de_banner)
 
-Olá, visitante! Seja muito bem-vindo ao meu espaço no GitHub. Aqui você encontrará uma coleção de projetos, ideias e colaborações que refletem minha jornada no mundo da programação e tecnologia. Sinta-se à vontade para explorar, contribuir e se inspirar.
-
-## Sobre Mim
-
-Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluções inovadoras. Minha paixão pela programação me levou a explorar uma variedade de domínios, desde desenvolvimento web até inteligência artificial. Estou constantemente buscando aprender, evoluir e compartilhar conhecimentos com a comunidade.
-
-- **Nome:** ItstheTsu
-- **Localização:** Brazil
-- **Profissão:** Desenvolvedor(a) de Software
-- **Interesses:** Programação, Desenvolvimento Web
-
-## Linguagens Mais Usadas
-
-Aqui está um gráfico que mostra as linguagens de programação mais usadas nos meus projetos do GitHub:
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&multiline=true&repeat=false&width=435&lines=Ol%C3%A1%2C+visitante!+Seja+muito+bem-vindo+ao+meu+espa%C3%A7o+no+GitHub.+Aqui+voc%C3%AA+encontrar%C3%A1+uma+cole%C3%A7%C3%A3o+de+projetos%2C+ideias+e+colabora%C3%A7%C3%B5es+que+refletem+minha+jornada+no+mundo+da+programa%C3%A7%C3%A3o+e+tecnologia.+Sinta-se+%C3%A0+vontade+para+explorar%2C+contribuir+e+se+inspirar.;Meu+nome+%C3%A9+Allan+Correa%2C+e+sou+um+entusiasta+da+tecnologia+apaixonado+por+resolver+problemas+e+criar+solu%C3%A7%C3%B5es+inovadoras.+Minha+paix%C3%A3o+pela+programa%C3%A7%C3%A3o+me+levou+a+explorar+uma+variedade+de+dom%C3%ADnios%2C+desde+desenvolvimento+web+at%C3%A9+intelig%C3%AAncia+artificial.+Estou+constantemente+buscando+aprender%2C+evoluir+e+compartilhar+conhecimentos+com+a+comunidade.)](https://git.io/typing-svg)
