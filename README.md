@@ -16,6 +16,11 @@ Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resol
 
 ## Card Gráfico Sobre Mim
 
+<p align='center'>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
+width="1200px" align="center">
+</p>
+
 ![Summary-Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItstheTsu&theme=2077)
 
 ## Linguagens/Aplicativos Que Eu tenho Conhecimento 🛠:
@@ -33,6 +38,17 @@ Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resol
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical)
 
+<p align='center'>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
+width="1200px" align="center">
+</p>
+
 ## Status Do Github 📊:
 
 ![ItstheTsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItstheTsu&show_icons=true&theme=cobalt)
+
+<p align='center'>
+<h1 align="center" width="42px">Fim</h2>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
+width="1200px" align="center">
+</p>
