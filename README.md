@@ -1,3 +1,6 @@
+<p align='center'>
+<img src='github-header-image.png' width="100px" align="center">
+</p>
 
 # Bem-vindo ao Meu Perfil! ╰(*°▽°*)╯
 
