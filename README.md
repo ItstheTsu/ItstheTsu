@@ -18,12 +18,14 @@ Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resol
 
 ## Linguagens/Aplicativos Que Eu tenho Conhecimento 🛠:
 
+<p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
 <code><img height="40" src="https://blog.dailylogochallenge.com/wp-content/uploads/2020/07/adobe-illustrator-logo.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="40" src="https://i.postimg.cc/vTkGR0jV/html5.png"></code>
+</p>
 
 ## Meu Conhecimento Técnico 💻:
  
