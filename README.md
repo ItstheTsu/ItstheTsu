@@ -17,4 +17,4 @@ Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resol
 
 Aqui está um gráfico que mostra as linguagens de programação mais usadas nos meus projetos do GitHub:
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=compact)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&langs_count=10&layout=full)
