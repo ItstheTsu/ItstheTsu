@@ -36,12 +36,12 @@ width="1200px" align="center">
 
 ## Meu Conhecimento Técnico 💻:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical)
-
 <p align='center'>
 <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
 width="1200px" align="center">
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical)
 
 ## Status Do Github 📊:
 
