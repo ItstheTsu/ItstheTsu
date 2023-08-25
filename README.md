@@ -8,7 +8,7 @@ width="1200px" align="center">
 
 Olá, visitante! Seja muito bem-vindo ao meu espaço no GitHub. Aqui você encontrará uma coleção de projetos, ideias e colaborações que refletem minha jornada no mundo da programação e tecnologia. Sinta-se à vontade para explorar, contribuir e se inspirar.
 
-Eu ainda estou em faze de aprendizado constante e melhora nos meus códigos pois sou um estudante de ensino médio mas, portanto, quero receber desafios e reconhecimento futuro como um DEV.
+Eu ainda estou em fase de aprendizado constante e melhora nos meus códigos pois sou um estudante de ensino médio mas, portanto, quero receber desafios e reconhecimento futuro como um DEV.
 
 ## Sobre Mim 👀
 
