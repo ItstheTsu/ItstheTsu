@@ -12,6 +12,11 @@ Eu ainda estou em fase de aprendizado constante e melhora nos meus códigos pois
 
 ## Sobre Mim 👀
 
+<p align='center'>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
+width="1200px" align="center">
+</p>
+
 Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluções inovadoras. Minha paixão pela programação me levou a explorar uma variedade de domínios, desde desenvolvimento web até inteligência artificial. Estou constantemente buscando aprender, evoluir e compartilhar conhecimentos com a comunidade.
 
 ## Card Gráfico Sobre Mim
@@ -24,6 +29,11 @@ width="1200px" align="center">
 ![Summary-Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItstheTsu&theme=2077)
 
 ## Linguagens/Aplicativos Que Eu Tenho Conhecimento 🛠:
+
+<p align='center'>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
+width="1200px" align="center">
+</p>
 
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
