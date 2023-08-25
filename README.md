@@ -17,6 +17,11 @@ Eu ainda estou em fase de aprendizado constante e melhora nos meus códigos pois
 width="1200px" align="center">
 </p>
 
+<p align='center'>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
+width="1200px" align="center">
+</p>
+
 Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluções inovadoras. Minha paixão pela programação me levou a explorar uma variedade de domínios, desde desenvolvimento web até inteligência artificial. Estou constantemente buscando aprender, evoluir e compartilhar conhecimentos com a comunidade.
 
 ## Card Gráfico Sobre Mim
