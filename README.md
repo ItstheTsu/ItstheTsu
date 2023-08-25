@@ -55,4 +55,9 @@ width="1200px" align="center">
 
 ## Status Do Github 📊:
 
+<p align='center'>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
+width="1200px" align="center">
+</p>
+
 ![ItstheTsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItstheTsu&show_icons=true&theme=cobalt)
