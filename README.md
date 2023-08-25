@@ -10,7 +10,7 @@ Olá, visitante! Seja muito bem-vindo ao meu espaço no GitHub. Aqui você encon
 
 Eu ainda estou em fase de aprendizado constante e melhora nos meus códigos pois sou um estudante de ensino médio mas, portanto, quero receber desafios e reconhecimento futuro como um DEV.
 
-## Sobre Mim <img height="40" src="https://giphy.com/gifs/trippy-abstract-pi-slices-RgzryV9nRCMHPVVXPV">
+## Sobre Mim <img height="40" src="https://giphy.com/gifs/trippy-abstract-pi-slices-RgzryV9nRCMHPVVXPV?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/">
 
 <p align='center'>
 <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"
