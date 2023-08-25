@@ -36,7 +36,6 @@ width="1200px" align="center">
 
 ## Meu Conhecimento Técnico 💻:
 
-<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical)
 
 <p align='center'>
