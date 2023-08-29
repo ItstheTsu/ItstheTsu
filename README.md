@@ -26,10 +26,7 @@ Meu nome é Allan Correa, e sou um entusiasta da tecnologia apaixonado por resol
 width="1200px" align="center">
 </p>
 
-<p align="center">
-
 ![Summary-Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItstheTsu&theme=2077)
-</p>
 
 ## Linguagens/Aplicativos Que Eu Tenho Conhecimento 🛠:
 
@@ -54,11 +51,7 @@ width="1200px" align="center">
 width="1200px" align="center">
 </p>
 
-<p align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical)
-
-</p>
 
 ## Status Do Github 📊:
 
@@ -67,8 +60,4 @@ width="1200px" align="center">
 width="1200px" align="center">
 </p>
 
-<p align="center">
-
 ![ItstheTsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItstheTsu&show_icons=true&theme=cobalt)
-
-</p>
