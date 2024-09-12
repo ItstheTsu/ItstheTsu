@@ -1,4 +1,5 @@
 <p align='center'> <img src='github-header-image.png' width="1200px" align="center"> <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="1200px" align="center"> </p>
+
 # Welcome to My Profile! ╰(°▽°)╯
 Hello, visitor! Welcome to my GitHub space. Here you'll find a collection of projects, ideas, and collaborations that reflect my journey in the world of programming and technology. Feel free to explore, contribute, and get inspired.
 
