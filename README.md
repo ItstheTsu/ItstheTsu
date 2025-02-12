@@ -3,7 +3,7 @@
 # Welcome to My Profile! ╰(°▽°)╯
 Hello, visitor! Welcome to my GitHub space. Here you'll find a collection of projects, ideas, and collaborations that reflect my journey in the world of programming and technology. Feel free to explore, contribute, and get inspired.
 
-I am still in a phase of constant learning and improving my code as I am a high school student. Therefore, I want to take on challenges and gain future recognition as a DEV.
+I am still in a phase of constant learning and improving my code. Therefore, I want to take on challenges and gain future recognition as a DEV and Game Maker.
 
 # About Me 🧭
 <p align='center'> <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="1200px" align="center"> </p>
