@@ -1,28 +1,82 @@
-<p align='center'> <img src='header.png' width="1200px" align="center"> <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="1200px" align="center"> </p>
+<p align="center">
+  <img src="header.png" width="100%" alt="Allan Correa - Header">
+</p>
 
-# Welcome to My Profile! ╰(°▽°)╯
-Hello, visitor! Welcome to my GitHub space. Here you'll find a collection of projects, ideas, and collaborations that reflect my journey in the world of programming and technology. Feel free to explore, contribute, and get inspired.
+<p align="center">
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="100%">
+</p>
 
-I am still in a phase of constant learning and improving my code. Therefore, I want to take on challenges and gain future recognition as a DEV and Game Maker.
+<h1 align="center">Seja bem-vindo(a) ao meu perfil! 👋</h1>
 
-# About Me 🧭
-<p align='center'> <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="1200px" align="center"> </p>
-My name is Allan Correa, and I am a technology enthusiast passionate about solving problems and creating innovative solutions. My passion for programming has led me to explore a variety of fields, from web development to artificial intelligence. I am constantly striving to learn, evolve, and share knowledge with the community.
+<p align="center">
+  <em>“A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” – Albert Einstein</em>
+</p>
 
-# Graphic Card About Me 📜
-<p align='center'> <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="1200px" align="center"> </p>
+---
 
-![Summary-Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItstheTsu&theme=2077)
+## 👨‍💻 Sobre mim
 
-# Languages/Applications I Am Proficient In 🛠:
-<p align='center'> <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="1200px" align="center"> </p> <p align="center"> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code> <code><img height="40" src="https://blog.dailylogochallenge.com/wp-content/uploads/2020/07/adobe-illustrator-logo.png"></code> <code><img height="40" src="https://i.postimg.cc/vTkGR0jV/html5.png"></code> </p>
+Meu nome é **Allan Correa**, sou um entusiasta da tecnologia e estudante de **Engenharia de Software**, com formação técnica em **Análise e Desenvolvimento de Sistemas** pelo SENAI. Tenho experiência prática como **assistente de e-commerce**, além de sólidos conhecimentos em **desenvolvimento web**, **design**, **cibersegurança** e **banco de dados**.
 
-# My Technical Knowledge 💻:
-<p align='center'> <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="1200px" align="center"> </p>
+Estou sempre em busca de aprendizado, desafios e evolução. Meu objetivo é crescer como desenvolvedor, contribuir com soluções criativas e me destacar no desenvolvimento de **games**, **interfaces** e **aplicações inteligentes**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical)
+---
 
-# GitHub Status 📊:
-<p align='center'> <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="1200px" align="center"> </p>
+## 🚀 Tecnologias que domino
 
-![ItstheTsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItstheTsu&show_icons=true&theme=cobalt)
+<p align="center">
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
+  <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino"></code>
+  <code><img height="40" src="https://blog.dailylogochallenge.com/wp-content/uploads/2020/07/adobe-illustrator-logo.png" alt="Illustrator"></code>
+  <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Photoshop"></code>
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItstheTsu&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical&theme=tokyonight" alt="Top Langs">
+</p>
+
+---
+
+## 🧠 Habilidades complementares
+
+- 🛠️ Banco de Dados: MySQL, MongoDB  
+- 🎨 UI/UX: Figma, Photoshop, Illustrator  
+- 📦 Versionamento: Git, GitHub  
+- 🌐 Web: APIs RESTful, SASS, Bootstrap  
+- ⚙️ Automação: Excel Avançado (VBA), Shell Script  
+- 🧪 Segurança: Cibersegurança e Boas Práticas (SENAI/SESI)
+
+---
+
+## 📚 Atualmente estudando
+
+- TypeScript  
+- Desenvolvimento de jogos com Roblox Lua  
+- Integração com IA e automações web  
+- Testes automatizados (Jest, Cypress)
+
+---
+
+## 🌎 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AllanCorrea-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allan-correa/)  
+📧 allan.correapires@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="100%">
+  <br>
+  <em>“Criar com propósito. Aprender com paixão. Compartilhar com humildade.”</em>
+</p>
