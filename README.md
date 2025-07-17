@@ -52,8 +52,8 @@ Sou apaixonado por resolver problemas, aprender coisas novas e transformar ideia
 <p align="center">
   <!-- Design e UI/UX -->
   <code><img height="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-  <code><img height="40" title="Photoshop" src="https://cdn-icons-png.flaticon.com/512/888/888897.png"></code>
-  <code><img height="40" title="Illustrator" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"></code>
+  <code><img height="40" title="Photoshop" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"></code>
+  <code><img height="40" title="Illustrator" src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png"></code>
 </p>
 
 ---
