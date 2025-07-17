@@ -78,8 +78,8 @@ Sou apaixonado por resolver problemas, aprender coisas novas e transformar ideia
 
 ## 🌎 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AllanCorrea-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allan-correa/)  
-📧 allan.correapires@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AllanCorrea-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allancorr3a/)
+📧 AllanCorr3a@gmail.com
 
 ---
 
