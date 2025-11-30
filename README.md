@@ -61,7 +61,6 @@ Sou apaixonado por resolver problemas, aprender coisas novas e transformar ideia
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItstheTsu&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItstheTsu&layout=donut-vertical&theme=tokyonight" alt="Top Langs">
 </p>
 
